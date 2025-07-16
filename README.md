@@ -9,3 +9,5 @@ of doing things I had not considered before.
 
 I mainly want to use this project to improve my use of git, as I had only used it
 quite amateurish so far. 
+
+Images used in this project are taken by me with food made by me or members of my family.
