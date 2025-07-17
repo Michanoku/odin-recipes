@@ -1,0 +1,23 @@
+body {
+  background-color: coral;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-family: "Brush Script MT", cursive;
+  font-size: 60px;
+  color: blanchedalmond;
+  margin-bottom: 50px;
+}
+
+.recipe-list {
+  display: inline-block;
+  text-align: left;
+  color: antiquewhite;
+}
+
+.recipe-link {
+  font-size: 20px;
+  color: antiquewhite;
+}
