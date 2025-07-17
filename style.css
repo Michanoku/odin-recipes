@@ -21,3 +21,7 @@
   font-size: 20px;
   color: antiquewhite;
 }
+
+.recipe-image {
+  border: 4px solid chocolate;
+}
