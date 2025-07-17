@@ -1,7 +1,18 @@
+a {
+  font-size: 20px;
+  color: antiquewhite;
+}
+
+.home-link {
+  display: block;
+  margin-bottom: 15px;
+}
+
 .page-layout {
   background-color: coral;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  color: antiquewhite;
 }
 
 .title {
@@ -11,18 +22,34 @@
   margin-bottom: 50px;
 }
 
+.subtitle {
+  font-size: 25px;
+}
+
 .list {
   display: inline-block;
   text-align: left;
-  color: antiquewhite;
 }
 
-.list li,
-.list li a {
-  font-size: 20px;
-  color: antiquewhite;
+.recipe {
+  display: inline-block;
+  padding: 10px;
 }
 
 .recipe-image {
   border: 4px solid chocolate;
+}
+
+.text {
+ margin: 10px 50px;
+}
+
+.recipe-text {
+  background-color: #fd652e;
+  padding: 10px;
+}
+
+.content-text {
+  font-size: 16px;
+  text-align: left;
 }
