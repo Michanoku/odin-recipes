@@ -11,13 +11,14 @@
   margin-bottom: 50px;
 }
 
-.recipe-list {
+.list {
   display: inline-block;
   text-align: left;
   color: antiquewhite;
 }
 
-.recipe-link {
+.list li,
+.list li a {
   font-size: 20px;
   color: antiquewhite;
 }
