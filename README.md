@@ -22,3 +22,13 @@ was going for. Also, since there was not much code to change, I mainly stuck to 
 commit messages. This is also something I want to learn more in the future, longer commit messages. 
 
 I think I did learn how to use git more responsibly but I still need more practice to get better.
+
+CSS:
+
+After advancing further in the course and getting the instruction to add more CSS here, I did so.
+I purposefully mostly kept it to CSS so far learned in the course. I found it challenging to style
+the lists and containers without flexbox or bootstrap as I would have done so far. 
+I also found it difficult to pace myself when making commits. I tend to add too many lines before 
+commiting something.
+
+This remains a point in which I have to improve from now on.
